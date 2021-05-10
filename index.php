@@ -43,7 +43,7 @@
    			<a class="menu-toggle" href="#"><span>Menu</span></a>
 
 	   		<div class="logo">
-		         <a href="index.html">MENU</a>
+		         <a href="index.php">MENU</a>
 		      </div>		      
 
 		   	<nav id="main-nav-wrap">
