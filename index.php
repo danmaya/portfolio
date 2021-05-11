@@ -230,7 +230,7 @@
 
 	   				<div class="timeline-content">
 	   					<h4>T-Systems</h4>
-	   					<p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi.</p>
+	   					<p>Web application development with JSP and XML.</p>
 	   				</div>
 
 	   			</div> <!-- /timeline-block -->
@@ -248,7 +248,10 @@
 
 	   				<div class="timeline-content">
 	   					<h4>PortAventura World</h4>
-	   					<p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+	   					<p>Explanation and verification of the restrictions and recommendations for the use of attractions.<br>
+						   Distribution of customers according to the capacity of the attraction.<br>
+						   Maintenance of cleanliness and order in the work area.<br>
+						   Execution of the closing and opening of the security elements.</p>
 	   				</div>
 
 	   			</div> <!-- /timeline-block -->
@@ -266,7 +269,9 @@
 
 	   				<div class="timeline-content">
 	   					<h4>Institut Baix Camp</h4>
-	   					<p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+	   					<p>Maintenance of the institute's computer equipment.<br>
+						   Resolution of computer incidents sent by the teaching staff.<br>
+						   Installation and configuration of machinery and software.</p>
 	   				</div>
 
 	   			</div> <!-- /timeline-block -->
@@ -302,7 +307,11 @@
 
 	   				<div class="timeline-content">
 	   					<h4>Institut Baix Camp</h4>
-	   					<p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi.</p>
+	   					<p>Management of information and resources in a network and implementation of specific software.<br>
+						   SQL databases (DML, DDL, DCL).<br>
+						   Structured programming and modular design (Java).<br>
+						   Areas of application of XML and information management.<br>
+						   Web development in client / server environment and web interface design (JavaScript, PHP).</p>
 	   				</div>
 
 	   			</div> <!-- /timeline-block -->
@@ -320,7 +329,11 @@
 
 	   				<div class="timeline-content">
 	   					<h4>Fundación Esplai</h4>
-	   					<p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+	   					<p>Knowledge of the technological stack (Eclipse, Git).<br>
+						   Object-oriented development with Java.<br>
+						   SQL databases (MySQL).<br>
+						   Back-End Development (Java 8, JUnit, Hibernate / JPA, REST, Spring).<br>
+						   Front-End Development (UI / UX, HTML5 / CSS3 / Bootstrap, JavaScript, JQuery, AJAX, XML / JSON, JSF, Angular).</p>
 	   				</div>
 
 	   			</div> <!-- /timeline-block -->
@@ -338,7 +351,11 @@
 
 	   				<div class="timeline-content">
 	   					<h4>Institut Baix Camp</h4>
-	   					<p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+	   					<p>Assembly and maintenance of computer equipment.<br>
+						   Knowledge of the different operating systems.<br>
+						   Office applications (word processors, spreadsheets, databases, presentations).<br>
+						   Configuration of networks and remote systems.<br>
+						   Web applications (File managers, content managers, HTML and CSS fundamentals).</p>
 	   				</div>
 
 	   			</div> <!-- /timeline-block -->
